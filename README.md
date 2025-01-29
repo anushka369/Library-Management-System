@@ -76,4 +76,4 @@ The **Library Management System** is a Java-based GUI application built using **
 ---
 
 ## Author 💞
-(__Anushka Banerjee__)
+_Anushka Banerjee_
