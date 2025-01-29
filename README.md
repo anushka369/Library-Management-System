@@ -26,16 +26,19 @@ The **Library Management System** is a Java-based GUI application built using **
 
 ## How to Run 💬
 1. Ensure **Java (JDK 8 or higher)** is installed on your system.
+   
 2. Copy the `LibraryManagementSystem.java` file into your Java project.
+   
 3. Compile the program using:
    ```sh
    javac LibraryManagementSystem.java
    ```
+   
 4. Run the program using:
    ```sh
    java LibraryManagementSystem
    ```
-
+   
 ---
 
 ## User Guide 📁
@@ -75,5 +78,15 @@ The **Library Management System** is a Java-based GUI application built using **
 
 ---
 
+## Contributions 🤝
+
+This repository is a personal learning project, but contributions and suggestions are welcome! 
+<br> If you find any improvements, feel free to create a pull request.
+
+---
+
 ## Author 💞
-_Anushka Banerjee_
+Developed by **Anushka**. <br>
+📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
+
+---
